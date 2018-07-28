@@ -10,4 +10,5 @@ body{
 #sobolev{
     float: right;
 }
-;askdfh;asdfh;
+git remote add origin git@github.com:ogrizok/saninSait.git
+git push -u origin master
